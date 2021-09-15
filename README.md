@@ -1,4 +1,4 @@
-# ShoppingPlatformASP.NET Download link:
+# Shopping platform built with ASP.Net MVC design pattern, log-in system,products database | Download link:
 
 https://drive.google.com/file/d/1Lf25c1g42rk3VBp05r13hQW6X3s1OQ3h/view?usp=sharing
 
